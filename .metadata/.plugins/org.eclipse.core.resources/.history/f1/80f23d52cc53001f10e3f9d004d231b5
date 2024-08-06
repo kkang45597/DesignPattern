@@ -1,0 +1,5 @@
+package com.mingi.factoryPattern.factory;
+
+public class HtmlDialog {
+
+}

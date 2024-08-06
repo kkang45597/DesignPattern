@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\HRD-NET\myapplication\DesignPattern\.metadata\.plugins\org.eclipse.jdt.core
+372847237.index
+1865797976.index
+281684340.index
